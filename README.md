@@ -8,7 +8,8 @@
 **ERC-721 token symbol**: stc
 **OpenZeppelin**: 2.3
 **Truffle**: 5.5
-**Rinkeby address**:
+**Rinkeby address**: 0x57ff081B0aEaa061c69926f1a601AFa0Bf69aAC4
+**Rinkeby contract etherscan link**: https://rinkeby.etherscan.io/address/0x57ff081b0aeaa061c69926f1a601afa0bf69aac4
 
 ### Dependencies
 
